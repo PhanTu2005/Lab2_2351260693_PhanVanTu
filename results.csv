@@ -1,0 +1,11 @@
+File Test,Nhãn Thật,Nhãn Dự Đoán,Top-1 Score
+khong_04.wav,khong,khong,0.0
+khong_05.wav,khong,khong,0.0
+mot_04.wav,mot,mot,0.0
+mot_05.wav,mot,mot,0.0
+hai_04.wav,hai,hai,0.0
+hai_05.wav,hai,hai,0.0
+ba_04.wav,ba,ba,0.0
+ba_05.wav,ba,ba,2.3947
+bon_04.wav,bon,bon,0.0
+bon_05.wav,bon,bon,1.1911
